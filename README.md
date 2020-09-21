@@ -30,10 +30,10 @@
 
 <img align="left" alt="Yuvaraj19's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yuvaraj19&show_icons=true&hide_border=true" /><br>
 
-<br><br>
+<br>
 <p align="center">
 <a href = "https://github.com/Yuvaraj19">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=Yuvaraj19&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=blue&bg_color=ffffff&card_width=400">
+  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=Yuvaraj19&layout=compact&title_color=000000&icon_color=8ac926&text_color=blue&bg_color=ffffff&card_width=400">
 </a>
 </p>
 
