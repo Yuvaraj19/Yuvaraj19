@@ -8,13 +8,12 @@
 - ⚡ Fun fact: I love to draw and interested in Graphic Design
 
 ### Languages and Tools:
-
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" title="python"></code>
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" title="javascript"></code>
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" title="html5"></code>
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" title="php"></code>
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" title="C"></code>
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" title="css"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="html5"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="php"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" title="java"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code>
