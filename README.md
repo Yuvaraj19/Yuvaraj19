@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a new project!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to join and collaborate with other learners
-- 🥅 2020 Goals: Learn more and improve my skills
+- 🥅 2021 Goals: Learn more and improve my skills
 - ⚡ Fun fact: I love to draw and interested in Graphic Design
 
 ### Languages and Tools:
