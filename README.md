@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to join and collaborate with other learners
 - 🥅 2021 Goals: Learn more and improve my skills
-- ⚡ Fun fact: I love to draw and interested in Graphic Design
+- ⚡ Fun fact: I'm interested in Graphic Design
 
 ### Languages and Tools:
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code>
